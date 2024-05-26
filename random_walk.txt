@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 the quaint 撒打算多发
+=======
+<<<<<<< HEAD
+the quaint wafadfjsdnkf
+=======
+the quaint seemed to cast a golden
+>>>>>>> C4
+>>>>>>> B1
