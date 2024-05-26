@@ -1,2 +1,6 @@
 In the tranquil village of Willowbrook, 
+<<<<<<< HEAD
 where the sun always seemed to cast a golden hue over the quaint 
+=======
+where the sun always seemed to cast a golden hue over the quaint cobbleston
+>>>>>>> C4

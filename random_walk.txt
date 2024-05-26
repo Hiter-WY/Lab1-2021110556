@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the quaint wafadfjsdnkf
+=======
+the quaint seemed to cast a golden
+>>>>>>> C4
